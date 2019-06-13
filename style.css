@@ -31,8 +31,9 @@ article {
     text-align: center;
 
 }
-/*nav {
-    border-top: 1.5px dashed;*/
+nav {
+    border-top: 1px dashed;
+}
 
 ul {
     font-family: 'Book Antiqua' sans-serif;
