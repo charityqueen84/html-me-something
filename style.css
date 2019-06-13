@@ -15,7 +15,7 @@ body {
 }
 
 #header1 {
-    text-align: center;
+    text-align: left;
     border-bottom: 1.5px dashed rgb(44, 38, 99);
     color: rgb(44, 38, 99)   
 }
@@ -84,5 +84,15 @@ h3 {
 
 footer {
     padding: 50px 0px 0px 0px;
+
+}
+.about {
+    font-family: 'Rambla';
+    margin-bottom: 30px;
+    text-align: left;
+    border-style: solid;
+    border-width: 20px 15px 20px 15px;
+    border-color: rgb(46, 43, 43);
+    padding: 10px;
 
 }
