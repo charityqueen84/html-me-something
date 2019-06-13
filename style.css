@@ -1,0 +1,88 @@
+p {
+    margin: 5px;  
+}
+
+h1 {
+    padding: 0px;
+    
+}
+
+body {
+    font-family: Perpetua;
+    font-size: 16px;
+    margin: auto; 
+    background-color: gray;
+}
+
+#header1 {
+    text-align: center;
+    border-bottom: 1.5px dashed rgb(44, 38, 99);
+    color: rgb(44, 38, 99)   
+}
+
+h4 {
+    font-size: 17px;
+    margin: 25px;
+    font-family: 'Book Antiqua' sans-serif;
+    text-align: center;
+    
+}
+article {
+    text-align: center;
+
+}
+/*nav {
+    border-top: 1.5px dashed;*/
+
+ul {
+    font-family: 'Book Antiqua' sans-serif;
+    font-size: 17px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: rgb(77, 74, 74);
+   /* border: 1px solid #555; */
+}
+
+li {
+    float: left;
+    border-bottom: 1 px solid #555;
+    padding: 10px;
+    background-color: rgb(110, 107, 107);
+    width: 100%;
+}
+    
+
+
+li a {
+    display: block;
+    color: rgb(144, 182, 204);
+    text-align: center;
+    /*width: 110px; */
+    padding: 8px 16px;
+    text-decoration: none;
+    font-family: 'Georgia' sans-serif;
+    font-weight: lighter; 
+    
+}
+li a:hover {
+    background-color: #555;
+    /*color: white;*/
+
+}
+figcaption {
+    margin-bottom: 35px;
+    font-family: 'Rambla';
+}
+
+
+h3 {
+    margin-top: 10px;   
+    margin-bottom: 1px; 
+}
+
+footer {
+    padding: 50px 0px 0px 0px;
+
+}
