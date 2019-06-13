@@ -4,7 +4,6 @@ p {
 
 h1 {
     padding: 0px;
-    
 }
 
 body {
@@ -16,7 +15,7 @@ body {
 
 #header1 {
     text-align: left;
-    border-bottom: 1.5px dashed rgb(44, 38, 99);
+    border-bottom: 1px dashed rgb(44, 38, 99);
     color: rgb(44, 38, 99)   
 }
 
@@ -92,7 +91,7 @@ footer {
     margin-bottom: 30px;
     text-align: left;
     border-style: solid;
-    border-width: 20px 15px 20px 15px;
+    border-width: 15px 10px 15px 10px;
     border-color: rgb(46, 43, 43);
     padding: 10px;
 
